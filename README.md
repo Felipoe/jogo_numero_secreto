@@ -3,7 +3,7 @@
 <p>Projeto feito em conjunto com o curso de lógica de programação da Alura</p>
 ## Tecnológias 
 <div>
-  HTML
-  CSS
+  HTML,
+  CSS e
   JavaScript 
 </div>
